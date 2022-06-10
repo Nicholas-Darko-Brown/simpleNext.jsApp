@@ -21,10 +21,13 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          My name is Kareem Ali. I’m the product development manager at Smart
-          Solutions. I’ve created over a dozen apps designed to streamline sales
-          and marketing activities for busy professionals. I see myself as a
-          relentless problem-solver, and I’m always looking for a new challenge.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          aliquip ex ea commodo consequat. Duis aute irure dolor in
+          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+          culpa qui officia deserunt mollit anim id est laborum.
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
